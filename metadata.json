@@ -1,0 +1,6 @@
+{
+  "name": "Informe y Dashboard: Tendencias Turísticas Europa 2023 - IU Digital",
+  "description": "Informe académico y cuadro de mando analítico sobre el caso de estudio de tendencias turísticas en Europa 2023 para la toma de decisiones. Unidad 2 - IU Digital de Antioquia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
